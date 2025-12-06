@@ -1,0 +1,56 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Family",
+      "isFavorite": true
+    },
+    {
+      "id": "2",
+      "name": "Work",
+      "isFavorite": true
+    },
+    {
+      "id": "3",
+      "name": "Home",
+      "isFavorite": false
+    },
+    {
+      "id": "4",
+      "name": "Blog",
+      "isFavorite": false
+    }
+  ],
+  "todos": [
+    {
+      "id": "1",
+      "name": "Call mom",
+      "completed": false,
+      "projectId": "1"
+    },
+    {
+      "id": "2",
+      "name": "Plan summer trip",
+      "completed": true,
+      "projectId": "1"
+    },
+    {
+      "id": "3",
+      "name": "Buy birthday present",
+      "completed": false,
+      "projectId": "1"
+    },
+    {
+      "id": "4",
+      "name": "Review PRs",
+      "completed": true,
+      "projectId": "2"
+    },
+    {
+      "id": "5",
+      "name": "Draft spec doc",
+      "completed": false,
+      "projectId": "2"
+    }
+  ]
+}
